@@ -4,5 +4,7 @@ public class Hello {
     System.out.println("Hello from Pipeline CI!");
     System.out.println("Hi iam saiteja");
     System.out.println("Hello iam from cd pipeline");
+    System.out.println("Hi iam saiteja");
+    System.out.println("Hello iam from cd pipeline");
   }
 }
